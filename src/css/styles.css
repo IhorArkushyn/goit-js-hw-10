@@ -32,6 +32,12 @@ body {
   margin-bottom: 32px;
 }
 
+.country-list__preview {
+  margin-left: 24px;
+  font-size: 24px;
+  font-weight: 500;
+}
+
 .country-list__name {
   margin-left: 24px;
   font-size: 40px;
